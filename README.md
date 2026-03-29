@@ -1,8 +1,4 @@
 # dadosLivraria
-Para criar um README profissional, precisamos que ele seja claro tanto para quem quer rodar o projeto quanto para quem quer entender a arquitetura (o robô separado do dashboard).
-
-Aqui está um modelo completo e moderno para o seu projeto:
-
 📊 Web Scraping Dashboard: Monitoramento de Preços
 Este projeto é uma ferramenta de Data Intelligence que automatiza a coleta de dados de e-commerce e os visualiza em um dashboard interativo. O diferencial deste projeto é a sua arquitetura desacoplada, onde a extração (Selenium) e a visualização (Streamlit) operam de forma independente para garantir performance e estabilidade.
 
