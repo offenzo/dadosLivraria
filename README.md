@@ -19,5 +19,3 @@ Extração: Selenium & WebDriver Manager
 Análise de Dados: Pandas
 
 Visualização: Streamlit & Plotly
-
-Ambiente: Venv (Virtual Environment)
